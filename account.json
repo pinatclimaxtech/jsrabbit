@@ -1,4 +1,7 @@
 {
-  "username": "pin",
-  "password": "1998"
+  "usernaem": "pin",
+  "info": {
+    "birth": "someday",
+    "age": 9
+  }
 }
